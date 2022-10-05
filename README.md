@@ -1,5 +1,4 @@
 # Site de Receitas
-![Screenshot-site](https://user-images.githubusercontent.com/29557187/164345389-9d6af421-b8e2-49a8-9451-987e211b7db4.png)
 
 # Contexto
 É uma aplicação que faz requisição de duas API's  uma de comidas e outra de bebidas, feita as requisições é implementado diversos filtros, como por categorias, receitas feitas, entre outras diversas funcionalidades como favoritar e compartilhar.
